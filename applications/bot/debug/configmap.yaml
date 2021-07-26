@@ -16,6 +16,7 @@ data:
       - lgtm
       - approved
       - ci_successful
+      - kind/wait_for_update
     checkPrReviewer: true
     # Tips for setting reviewers
     setReviewerTip: "Please assign one reviewer at least, visit https://gitee.com/mindspore/community/tree/master/sigs to check all sigs and maintainers in community."
